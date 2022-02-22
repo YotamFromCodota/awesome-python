@@ -587,7 +587,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * IDE
     * [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE by JetBrains. Has free community edition available.
     * [spyder](https://github.com/spyder-ide/spyder) - Open Source Python IDE.
-
+* In IDE Autocomplete
+    * [Tabnine](https://github.com/codota/TabNine) - AI code completions for developers and teams.
 ## Email
 
 *Libraries for sending and parsing email.*
